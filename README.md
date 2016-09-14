@@ -1,2 +1,2 @@
 # MrGaytan.github.io
-MrGaytan Project
+MrGaytan Web Site
