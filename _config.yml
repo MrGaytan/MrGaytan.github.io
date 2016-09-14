@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Mr. Gaytán
+title:            <img src="public/mrgaytanLogo.png" />
 tagline:          
-description:      'Software Developer and frustrated Graphic Designer'
+description:      'Desarollador de Software (un programaor cualquiera) y Diseñador Gráfico frustrado.'
 url:              http://mrgaytan.github.io
 baseurl:          /
 
