@@ -9,10 +9,12 @@ title: Acerca de
 
 Come in and enjoy the ride through this site. You will see some interesting things, unfinished projects and the attempt to make a good blog that will not progress much.
 
-Conoce más sobre lo que hago (intento hacer) y de lo que me interesa hablar: 
+Text in spanish, text in english... I know nothing about chinese.
+
+Learn more about what I do (attempt to do) and what I like to talk:
 [GitHub](https://github.com/MrGaytan).
 [Behance](https://www.behance.net/MrGaytan).
 [Twitter](https://twitter.com/MrGaytan).
 
 
-Gracias por tomarse el tiempo de pasar por aquí.
+Thanks for taking the time to stop by.
