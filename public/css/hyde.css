@@ -56,7 +56,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1.5rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -81,7 +81,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: 'Roboto', sans-serif;
-  font-weight: 900;
+  font-weight: 700;
   font-size: 3.25rem;
 }
 
