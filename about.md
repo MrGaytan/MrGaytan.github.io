@@ -4,10 +4,10 @@ title: Acerca de
 ---
 
 <p class="message">
-  Mi nombre es Israel Gaytán. Este es el sitio de un Desarrollador de Software cualquiera y Diseñador Gráfico frustrado. Bienvenido al lugar donde casi siempre hay cosas buenas.
+  My name is Israel Gaytán. Im'm a Software Developer any and frustrated Graphic Designer. Welcome to the place where there is almost always good things.
 </p>
 
-Pase y disfrute el viaje por este sitio. Verá cosas poco interesantes, proyectos no terminados y el intento de hacer un buen blog que no progresará mucho.
+Come in and enjoy the ride through this site. You will see some interesting things, unfinished projects and the attempt to make a good blog that will not progress much.
 
 Conoce más sobre lo que hago (intento hacer) y de lo que me interesa hablar: 
 [GitHub](https://github.com/MrGaytan).

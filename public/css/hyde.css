@@ -90,6 +90,10 @@ html {
   font-weight: 700;
 }
 
+.profilepic{
+  border-radius: 50%;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
