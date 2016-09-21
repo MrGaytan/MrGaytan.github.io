@@ -11,8 +11,8 @@ Pase y disfrute el viaje por este sitio. Verá cosas poco interesantes, proyecto
 
 Conoce más sobre lo que hago (intento hacer) y de lo que me interesa hablar: 
 [GitHub](https://github.com/MrGaytan).
-[Behance](https://be.net/MrGaytan).
-[Twitter](https://twitter/MrGaytan).
+[Behance](be.net/MrGaytan).
+[Twitter](https://twitter.com/MrGaytan).
 
 
 Gracias por tomarse el tiempo de pasar por aquí.

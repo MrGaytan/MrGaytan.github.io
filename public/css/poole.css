@@ -48,9 +48,10 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  font-weight: 100;
 }
 @media (min-width: 38em) {
   html {
@@ -274,8 +275,8 @@ tbody tr:nth-child(odd) th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
-  background-color: #f9f9f9;
+  color: #ffffff;
+  background-color: #202020;
 }
 
 
