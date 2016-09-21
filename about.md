@@ -1,30 +1,18 @@
 ---
 layout: page
-title: About
+title: Acerca de
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Mi nombre es Israel Gaytán. Este es el sitio de un Desarrollador de Software cualquiera y Diseñador Gráfico frustrado. Bienvenido al lugar donde casi siempre hay cosas buenas.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Pase y disfrute el viaje por este sitio. Verá cosas poco interesantes, proyectos no terminados y el intento de hacer un buen blog que no progresará mucho.
 
-There are currently two themes built on Poole:
+Conoce más sobre lo que hago (intento hacer) y de lo que me interesa hablar: 
+[GitHub](https://github.com/MrGaytan).
+[Behance](https://be.net/MrGaytan).
+[Twitter](https://twitter/MrGaytan).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Gracias por tomarse el tiempo de pasar por aquí.
