@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bienven... 
+title: Bienven... (?)
 ---
 
 Bienvenido al sitio de todo y nada, lo copiado, lo robado y lo arreglado.
@@ -9,33 +9,13 @@ Bienvenido al sitio de todo y nada, lo copiado, lo robado y lo arreglado.
 
 Esto es todo y nada.
 
-La premisa de hacer un blog como este (usando [GiHub Pages](http://githubpages.com)) es hacer uso de una plataforma tan grande y poderosa como [Github](http://github.com) y hacer post sobre tus proyectos, postear la creación de tus pequeñas <i>api's</i>, 
+La premisa de hacer un blog como este (usando [GiHub Pages](http://githubpages.com)) es hacer uso de una plataforma tan grande y poderosa como [Github](http://github.com) (en gran parte) y sobretodo hacer post sobre tus proyectos, postear la creación de tus pequeñas <i>api's</i>, mostrar tus pequeñas librerias y cachos de código, generar soluciones algorítimicas y sobretodo (creo yo) ayudar la comunidad de TI en general.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+Lo que verás aquí no será precisamente eso... o quizás sí, no lo sé; espero hacer mi primera entrada "oficial" pronto.
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+Verás post de interés; post sobre TI (quizás); algo de Diseño (a veces); quizás si pongo algo de empeño mostraré algún tutorial sobre el manejo de alguna herramienta o quizás un pequeño post ("arreglado", copiado y mejorado) sobre programación... Y ya, en algún momento (en esta vida) me enfocaré en mostrar lo primordial, que es enseñar alguno que otro de los <i>repos</i> de Github y mostrar algún trabajo interesante.
 
-### Hyde features
+Como se describe en [A cerca de](https://mrgaytan.github.io/about/), este blog no prosperará mucho, pero esperemos que haya post suficientes o de interés para hacerte volver.
 
-In addition to the features of Poole, Hyde adds the following:
+Gracias por leérme.
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
