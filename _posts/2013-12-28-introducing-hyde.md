@@ -1,11 +1,15 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Bienven... 
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Bienvenido al sitio de todo y nada, lo copiado, lo robado y lo arreglado.
 
-### Built on Poole
+### ¿Qué es esto?
+
+Esto es todo y nada.
+
+La premisa de hacer un blog como este (usando [GiHub Pages](http://githubpages.com)) es hacer uso de una plataforma tan grande y poderosa como [Github](http://github.com) y hacer post sobre tus proyectos, postear la creación de tus pequeñas <i>api's</i>, 
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
